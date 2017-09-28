@@ -1,0 +1,19 @@
+{
+  "name": "bihisankey",
+  "version": "1.0.0",
+  "description": "This is a d3 javascript plugin/library for generating bidirectional hierarchial sankey diagrams",
+  "main": "bihisankey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenril/bihisankey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenril/bihisankey/issues"
+  },
+  "homepage": "https://github.com/zenril/bihisankey#readme"
+}
