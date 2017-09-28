@@ -1,6 +1,6 @@
 {
   "name": "bihisankey",
-  "version": "1.5",
+  "version": "latest",
   "description": "This is a d3 javascript plugin/library for generating bidirectional hierarchial sankey diagrams",
   "main": "bihisankey.js",
   "scripts": {
